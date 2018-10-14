@@ -1,0 +1,11 @@
+{
+  "name": "learn-rxjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Willy Hong",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^6.3.3"
+  }
+}
